@@ -5,12 +5,12 @@
     <string name="my_profile">My Profile</string>
     <string name="my_name">EDORH Hodemimon Emmanuel</string>
     <string name="track" >Track : </string>
-    <string name="track_value" >ANDROID</string>
+    <string name="track_value" >Android</string>
     <string name="country" >Country :</string>
     <string name="country_value" >TOGO</string>
     <string name="email" >Email : </string>
     <string name="email_value" >emmanoedorh@gmail.com</string>
-    <string name="phone_number" >Phone number :</string>
+    <string name="phone_number" >Phone Number :</string>
     <string name="phone_number_value" >0022899450699</string>
     <string name="slack_username" > Slack username :</string>
     <string name="slack_username_value" >EDORH Hodemimon Emmanuel</string>
